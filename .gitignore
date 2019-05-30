@@ -1,2 +1,4 @@
 .*.swp
 *.uf2
+*.zip
+adafruit-circuitpython-bundle-*/
